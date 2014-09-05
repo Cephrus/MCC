@@ -1,0 +1,107 @@
+XENON INTERNATIONAL PUBLIC LICENSE
+Version 1.0, September 2014
+
+Copyright (c) 2014 Cephrus, <http://cephlab.uni.me/>
+Verbatim Copies of this License is Permitted,
+however modification is prohibited unless permission is granted.
+
+This is the Xenon International Public License, or XIPL.
+
+TERMS AND CONDITIONS
+
+0. Definitions
+
+"This License" refers to this version (1.0) of the XIPL License.
+
+"The Program" or "Software" is the work or code this license represents.
+
+The "distributor" or "author" is either the owner and author of the work or person authorized to distribute the work or any derivatives of it.
+
+The "source" is the original copy of the work. This can be noted as "source code" should the work be a piece of software or code.
+
+To "modify" the work is to change the current form of the work without proper permission. 
+The result is called a "modification" or "derivative" of the original source.
+
+A "library" is a piece of software that can be implemented into other software to provide additional functionality.
+Libraries can also be a compilation of other libraries, which can each function independently or interdependently with other libraries within the compilation.
+
+1. Liability
+
+The Program is provided "AS IS," with no warranty unless otherwise stated by the publisher.
+The distributor takes no responsibility for any damages incurred by your use of the software.
+The author takes no responsibility of the damages incurred by any modifications of the original source, or derivatives of those modifications.
+
+2. Rights to The Program
+
+The following Rights are granted to the User:
+
+2A. The User may run the Software for any purpose by all means.
+
+2B. The User may study or change The Program, for whatever intention they have, in compliance with sections 3 and 4.
+
+2C. The User may redistribute verbatim copies of The Program, in compliance with subsections 3A and 3B.
+
+2D. The User may redistribute modified copies of The Program, in compliance with all applicable subsections in sections 3 and 4.
+
+2E. The Author reserves the right to utilize any modifications contributed to the program, whether by commission or by terms of this license. 
+All modified versions of the software submitted to the Author must be licensed under this license.
+
+2F. Violation of this license terminates the User's agreement to the license, successively terminating the rights in subsections 2A through 2E.
+
+3. Distributions
+
+Rights to Distribute the software are granted to all users, in compliance with section 2.
+
+3A. Distributing Verbatim Copies in Binary Form
+
+Rights to distribute verbatim copies of the Software in compiled form without modification are granted without restriction.
+However, the distributor is required to provide a copy of this license to all recipients of the software.
+In Addition, the distributor may be subject to provide additional information by discretion of the author.
+
+3B. Distributing Verbatim Copies in Source Form
+
+Rights to distribute verbatim copies of the Source Code in decompiled form are granted, but under certain restrictions.
+Redistributions of an exact copy of the source code must contain a copy of this license.
+In Addition, the distributor must include any documentation of the source provided by the author, and must comply with subsection 3A of this license.
+
+3C. Distributing Modified Copies of the Program in Binary Form
+
+Rights to distribute modified copies of the program in binary form are granted under the restrictions below.
+The distributor must comply with subsections 3A and 3D.
+If applicable, the distributor must comply with all applicable sections in section 3.
+In Addition, the distributor must include all documentation relating to the modified version of the source code. 
+Should the modified version invalidate the documentation, the distributor is required to update the documentation should the author require it. If the documentation is not modified the distributor must provide a notice of this.
+The distributor must also provide the location to where the original source and binary copies may be found, whether it be on the author's website or any other distribution site.
+
+3D. Distributing Modified Copies of the Program in Source Code Format
+
+Rights to distribute modified copies of the program in source form are granted under the restrictions below.
+The distributor must comply with subsections 3A, 3B, and 3C.
+In Addition, the distributor must send a copy of the code to the original author of the software, licensed under this license.
+The author does not need to acknowledge receiving the copy but must send a confirmation to the distributor.
+
+3E. Using the Software in Proprietary Programs
+
+Rights to use the Software in Proprietary Programs are granted under the following restrictions.
+The distributor must comply with all of section 2 as well as any applicable subsections in section 3.
+The distributor must send the author of the software a copy of the source code for the version of the software they are using in their program.
+
+4. Using the Software within your own Program
+
+Distribution Rights are granted to all Users in compliance with section 2.
+
+4A. Distributing a Modified Copy of the Source Code alongside another Program as a Prerequisite
+
+If the distributor requires a modified copy of the source code as a prerequisite to their Program, they must comply with section 2C.
+Only the modified Source Code must be distributed. The proprietary Program is in ownership of the distributor and may be licensed under any license.
+However the license must not interfere with the distribution of the Source Code and its corresponding license.
+
+4B. Distributing a Modified Copy of the Source Code alongside a Program that the modified copy depends on
+
+If the distributor attempts to distribute a modified copy of the source alongside a program that the modified derivative depends on they must comply with section 2C.
+The source code of the modified source as well as the source of the program it is dependant on must be released under the license of the original source code (this license) or a higher version of it.
+
+4C. Distributing Verbatim Copies of the Binary Form alongside another Program as a Prerequisite
+
+Permission is granted under the terms of 2A.
+The distributor may license their Program under any non-conflicting license.

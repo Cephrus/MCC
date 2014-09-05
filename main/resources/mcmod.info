@@ -1,0 +1,16 @@
+[
+{
+  "modid": "clib",
+  "name": "MCC-CLIB",
+  "description": "MCC- Minecraft C Library",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cephrus"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
